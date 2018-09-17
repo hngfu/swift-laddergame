@@ -54,21 +54,4 @@ func makeHorizontalOfLadder(_ participant:Int) -> [String]{
     return horizontalOfLadder
 }
 
-func showLadder(_ ladder:[[String]]) {
-    
-    print(ladder)
-}
-
 print(initialize())
-
-
-
-
-
-
-
-
-
-
-
-
